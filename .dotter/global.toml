@@ -1,0 +1,5 @@
+[helpers]
+
+[config.files]
+etc = "/etc"
+usr = "/usr"
